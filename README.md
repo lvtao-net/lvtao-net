@@ -5,4 +5,4 @@
 </p>
 
 
-![skills](https://skillicons.dev/icons?i=c,cs,cpp,go,php,laravel,wordpress,dotnet,py,svg,tauri,html,css,vite,vue,webpack,js,ts,bootstrap,nodejs,java,gradle,maven,md,react,bash,docker,cloudflare,git,github,linux,nginx,mysql,redis,mongodb,postgres,sqlite,idea,vim,vscode,bots,ae,ai,ps,pr)
+![skills](https://skillicons.dev/icons?i=go,php,html,css,nodejs,java,linux,nginx,mysql,redis,ps,postgres,sqlite,idea,vim,vscode,bots,git,c,cs,cpp,laravel,wordpress,dotnet,py,svg,tauri,vite,vue,webpack,js,ts,bootstrap,gradle,maven,md,react,bash,docker,cloudflare,github,mongodb,ae,ai,pr)
