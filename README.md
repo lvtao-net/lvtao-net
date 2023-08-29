@@ -1,6 +1,6 @@
 ## Abstract
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=lvtao-net&show_icons=true&hide_border=true" alt="lvtao.net Github Stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lvtao-net&show_icons=true&hide_border=true" alt="lvtao.net Github Stats" width="52%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvtao-net&layout=compact&hide_border=true&langs_count=10" alt="lvtao.net Top Langs" width="38%" /> 
 </p>
 
