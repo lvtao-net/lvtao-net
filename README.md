@@ -5,3 +5,7 @@
 </p>
 
 ![skills](https://readme.lvtao.net/api/icons?i=go,php,html,css,nodejs,java,linux,nginx,mysql,redis,ps,postgres,sqlite,idea,vim,vscode,bots,git,c,cs,cpp,laravel,wordpress,dotnet,py,svg,tauri,vite,vue,webpack,js,ts,bootstrap,gradle,maven,md,react,bash,docker,cloudflare,github,mongodb,ae,ai,pr)
+
+[GitHub Readme Stats 生成器](https://readme.lvtao.net) [开源地址](https://github.com/lvtao-net/github-readme-stats-icons)
+[程序员工具箱](https://tool.lvtao.net)
+[全栈博客](https://tool.lvtao.net)
